@@ -8,7 +8,11 @@ In today’s fast-paced digital world, spreading fake news has become a signific
 The steps we will follow in this project are:
 
 Data collection and exploration
+
 Text preprocessing
+
 Feature extraction
+
 Model training and evaluation
+
 Deployment
