@@ -9,7 +9,7 @@ The steps we will follow in this project are:
 
 Data collection and exploration
 
-Text preprocessing
+Text preprocessing.
 
 Feature extraction
 
